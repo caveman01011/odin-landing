@@ -10,7 +10,12 @@ body{
   flex-direction: column;
 }
 
-container{
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
+
+.container{
   display: flex;
   justify-content: space-between;
 }
