@@ -8,7 +8,7 @@
 body{
   display: flex;
   flex-direction: column;
-  background-color: blue;
+  background-color: navy;
 }
 
 .navbar{
