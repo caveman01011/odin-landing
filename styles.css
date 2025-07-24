@@ -8,17 +8,30 @@
 body{
   display: flex;
   flex-direction: column;
+  background-color: #1F2937;
 }
 
 .navbar{
   display: flex;
   flex-direction: row;
+  padding: 20px;
+}
+
+.nav-links{
+  display: flex;
+  gap: 48px;
+}
+
+li{
+  text-decoration: none;
 }
 
 .container{
   display: flex;
   justify-content: space-between;
 }
+
+
 
 li{
   text-decoration: none;
