@@ -8,13 +8,17 @@
 body{
   display: flex;
   flex-direction: column;
-  background-color: #1F2937;
+  background-color: blue;
 }
 
 .navbar{
   display: flex;
   flex-direction: row;
   padding: 20px;
+}
+
+.navbar *{
+  color: white;
 }
 
 .nav-links{
