@@ -35,3 +35,10 @@ li{
   display: flex;
   justify-content: space-between;
 }
+
+.hero{
+  width: 100%;
+  padding: 7vh;
+  margin: auto;
+  margin-top: 20vh;
+}
