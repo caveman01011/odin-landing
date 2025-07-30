@@ -42,8 +42,9 @@ li{
   align-items: center;
   width: 100%;
   padding: 7vh;
-  margin: auto;
+  margin: 0 4vw;
   margin-top: 20vh;
+  background-color: green;
 }
 
 .hero-btn{
