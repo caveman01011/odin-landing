@@ -42,7 +42,7 @@ li{
   align-items: center;
   width: 100%;
   padding: 7vh;
-  margin: 0 auto;
+  margin: 30px auto;
   margin-top: 20vh;
 }
 
@@ -71,4 +71,11 @@ li{
 
 .info *{
   text-align: center;
+}
+
+.partner{
+  height: 90px;
+  width: 60px;
+  border: solid black 1px;
+  border: 6px;
 }
