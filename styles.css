@@ -37,8 +37,18 @@ li{
 }
 
 .hero{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   width: 100%;
   padding: 7vh;
   margin: auto;
   margin-top: 20vh;
+}
+
+.hero-btn{
+  padding: 10px;
+  background-color: #FFFF;
+  border: solid black 1px;
+  border-radius: 6px;
 }
