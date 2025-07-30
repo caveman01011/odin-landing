@@ -69,15 +69,20 @@ li{
   background-color: white;
 }
 
-partners{
+.info *{
+  text-align: center;
+}
+
+.partners{
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
 }
 
-.info *{
-  text-align: center;
+.partner-img{
+  height: 400px;
+  width: 250px;
 }
 
 .partner{
