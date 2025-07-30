@@ -74,10 +74,10 @@ li{
 }
 
 .partner{
-  height: 90px;
-  width: 60px;
+  height: 500px;
+  width: 300px;
   border: solid black 1px;
-  border: 6px;
+  border-radius: 6px;
 }
 
 .partner *{
