@@ -79,3 +79,7 @@ li{
   border: solid black 1px;
   border: 6px;
 }
+
+.partner *{
+  text-align: center;
+}
