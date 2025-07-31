@@ -95,3 +95,17 @@ li{
 .partner *{
   text-align: center;
 }
+
+.quote{
+  padding: 5vw 10vw;
+}
+
+.quote i{
+  font: 20px Arial, sans-serif;
+  text-align: center;
+}
+
+.quote b{
+  font-size: 16px;
+  text-align: left;
+}
